@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "Melinda Jean Myers Solutions - Performance Campaigns That Convert",
   description:
     "We deliver B2B promotional campaigns built to drive measurable sales and ROI. Chicago-based marketing campaign agency specializing in performance-based promotional campaigns.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords:
     "performance campaigns, conversion optimization, ROI marketing, promotional campaigns, B2B sales tools, Chicago marketing agency",
   authors: [{ name: "Melinda Jean Myers Solutions" }],
